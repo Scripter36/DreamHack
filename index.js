@@ -1,1 +1,1 @@
-alert(document.cookies);
+console.log(document.cookie);
